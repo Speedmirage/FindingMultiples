@@ -4,3 +4,9 @@ This program allows one to input two distict integers and returns true if the se
 
 ## Things to Keep in Mind
 1. This program will **immediately quit** if the second value entered is larger than the first one. 
+
+## How to Run it?
+1. First, run [Finding Multiples](http://cpp.sh/5qem)
+2. Then, just have fun and enjoy it!
+
+# Return to Main Screen
