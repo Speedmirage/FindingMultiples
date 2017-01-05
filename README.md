@@ -9,4 +9,4 @@ This program allows one to input two distict integers and returns true if the se
 1. First, run [Finding Multiples](http://cpp.sh/5qem)
 2. Then, just have fun and enjoy it!
 
-# Return to Main Screen
+# [Return to Main Screen](https://speedmirage.github.io)
